@@ -1,0 +1,7 @@
+name: uber-clone-codeql
+version: 0.1.0
+libraryPathDependencies:
+  - codeql-cpp
+  - codeql-java
+  - codeql-swift
+description: CodeQL query pack with starter checks for uber-clone (C/C++, Kotlin/Java, Swift). Dart scanning via script.
